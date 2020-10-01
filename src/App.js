@@ -121,8 +121,8 @@ function App() {
         </Row>
         <Row>
           <Col sm={2} />
-          <Col sm={8}>
-            <Image src="/images/ground.png" fluid />
+          <Col sm={8} style={{ textAlign: "center" }}>
+            <Image src="/images/ground.png" />
           </Col>
           <Col sm={2} />
         </Row>
